@@ -1,3 +1,4 @@
+
 # Kakuma-and-Kalobeyei-Water-Access-Project-Dashboard
 
 💧 Water Access and Sanitation Conditions in Kakuma
@@ -36,6 +37,14 @@ The interactive Tableau dashboard includes:
 - % of households meeting the 20L standard
 - Sanitation scores by zone
 - Interactive filters for targeted exploration
+
+---
+
+## 📸 Dashboard Preview
+
+![Dashboard Screenshot](dashboard_screenshot.png)
+
+*Above: Tableau dashboard showing key water access and sanitation indicators across Kakuma and Kalobeyei zones.*
 
 ---
 
