@@ -42,7 +42,7 @@ The interactive Tableau dashboard includes:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](https://public.tableau.com/app/profile/ater.mayen/viz/KakumaWaterAcess/WaterAndSanitationAccessDashboard)
+![Dashboard Screenshot](dashboard.png)
 
 *Above: Tableau dashboard showing key water access and sanitation indicators across Kakuma and Kalobeyei zones.*
 
