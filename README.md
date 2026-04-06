@@ -1,22 +1,22 @@
 
 # Kakuma-and-Kalobeyei-Water-Access-Project-Dashboard
 
-💧 Water Access and Sanitation Conditions in Kakuma
+ Water Access and Sanitation Conditions in Kakuma
 
-## 📘 Project Overview
+##  Project Overview
 
 This project presents a comprehensive data-driven analysis of water access and sanitation conditions in the **Kakuma refugee camp**, one of the largest refugee settlements in the world.
 
 Using **Python** for data preprocessing and **Tableau** for visualization, the analysis focuses on key humanitarian indicators including:
 
-- 🚶‍♀️ **Average distance to water sources**
-- 💧 **Liters of water per person per day**
-- 📊 **Water sufficiency vs. Sphere standard (20L/person/day)**
+-  **Average distance to water sources**
+-  **Liters of water per person per day**
+- **Water sufficiency vs. Sphere standard (20L/person/day)**
 - 🚽 **Sanitation status by zone**
 
 ---
 
-## 🔍 Key Findings
+##  Key Findings
 
 - Only **0% of households** meet the international minimum water standard (20L/person/day).
 - Zones **Kalobeyei, Kakuma 1, and Kakuma 2** have the **longest distances** to water sources and **poorest sanitation conditions**.
@@ -25,7 +25,7 @@ Using **Python** for data preprocessing and **Tableau** for visualization, the a
 
 ---
 
-## 📊 Dashboard Insights
+##  Dashboard Insights
 
 The interactive Tableau dashboard includes:
 
@@ -40,7 +40,7 @@ The interactive Tableau dashboard includes:
 
 ---
 
-## 📸 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard Screenshot](dashboard.png)
 
@@ -48,7 +48,7 @@ The interactive Tableau dashboard includes:
 
 ---
 
-## 🛠️ Recommendations
+##  Recommendations
 
 - Expand boreholes and piped systems in **Kalobeyei, Kakuma 1, and Kakuma 2**
 - Promote **latrine construction and hygiene education**
@@ -56,7 +56,7 @@ The interactive Tableau dashboard includes:
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
 - **Python** (Pandas, Matplotlib)
 - **Tableau** (Interactive dashboard creation)
@@ -64,6 +64,6 @@ The interactive Tableau dashboard includes:
 
 ---
 
-## 📌 Author
+## Author
 
 > A data analytics capstone project focused on humanitarian insights and visual storytelling.
