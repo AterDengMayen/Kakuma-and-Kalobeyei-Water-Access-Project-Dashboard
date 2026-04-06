@@ -12,7 +12,7 @@ Using **Python** for data preprocessing and **Tableau** for visualization, the a
 -  **Average distance to water sources**
 -  **Liters of water per person per day**
 - **Water sufficiency vs. Sphere standard (20L/person/day)**
-- 🚽 **Sanitation status by zone**
+-  **Sanitation status by zone**
 
 ---
 
